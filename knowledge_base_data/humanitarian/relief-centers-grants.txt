@@ -1,0 +1,217 @@
+American Red Cross - Humanitarian Services
+Relief Centers and Grant Application Information
+
+RELIEF CENTER LOCATIONS
+
+Relief Center - Seattle Metro
+Address: 1234 Disaster Relief Way, Seattle, WA 98101
+Phone: (206) 555-1001
+Hours: Monday-Friday 8:00 AM - 6:00 PM, Saturday 9:00 AM - 4:00 PM
+Services: Emergency shelter, food assistance, financial aid applications, case management
+Accessibility: Fully accessible, multilingual staff available
+Parking: Free parking available
+Public Transit: Metro Bus lines 7, 14, 36, Link Light Rail - International District Station
+
+Relief Center - Tacoma
+Address: 5678 Emergency Services Drive, Tacoma, WA 98402
+Phone: (253) 555-2002
+Hours: Monday-Friday 9:00 AM - 5:00 PM, Saturday 10:00 AM - 3:00 PM
+Services: Emergency shelter, food assistance, financial aid applications, disaster recovery support
+Accessibility: Ground floor access, wheelchair accessible
+Parking: Street parking and nearby parking lot
+Public Transit: Pierce Transit routes 1, 2, 3, Sound Transit Express
+
+Relief Center - Spokane
+Address: 9012 Community Support Avenue, Spokane, WA 99201
+Phone: (509) 555-3003
+Hours: Monday-Friday 8:00 AM - 5:00 PM, Saturday 9:00 AM - 2:00 PM
+Services: Emergency shelter, food assistance, financial aid, case management, mental health support
+Accessibility: Fully accessible, sign language interpreter available by appointment
+Parking: On-site parking available
+Public Transit: Spokane Transit Authority routes 25, 27, 28
+
+Relief Center - Bellevue
+Address: 3456 Aid Distribution Center, Bellevue, WA 98004
+Phone: (425) 555-4004
+Hours: Monday-Friday 9:00 AM - 6:00 PM
+Services: Financial aid applications, case management, resource referrals
+Accessibility: Fully accessible
+Parking: Free parking garage
+Public Transit: Metro Bus lines 271, 550, Sound Transit Express
+
+Mobile Relief Unit - Eastern Washington
+Service Area: Rural communities in Eastern Washington
+Schedule: Rotating schedule, visit redcross.org/relief-centers for current locations
+Services: Emergency assistance, food distribution, application intake
+Contact: Call (509) 555-3003 for current schedule and locations
+
+GRANT APPLICATION DATABASE
+
+Grant Application ID: GR-2024-001234
+Applicant Name: Maria Garcia
+Email: maria.garcia@email.com
+Phone: +1-555-0201
+Application Date: February 15, 2024
+Grant Type: Emergency Housing Assistance
+Amount Requested: $2,500
+Status: Approved
+Approval Date: February 22, 2024
+Disbursement Date: February 28, 2024
+Disbursement Method: Direct deposit
+Case Manager: John Smith
+Case Manager Contact: (206) 555-1001 ext. 201
+Notes: Approved for temporary housing assistance following house fire. Funds disbursed successfully.
+
+Grant Application ID: GR-2024-002456
+Applicant Name: Robert Williams
+Email: robert.williams@email.com
+Phone: +1-555-0202
+Application Date: February 20, 2024
+Grant Type: Disaster Relief - Flood Damage
+Amount Requested: $3,000
+Status: Under Review
+Review Start Date: February 25, 2024
+Expected Decision Date: March 15, 2024
+Case Manager: Sarah Johnson
+Case Manager Contact: (253) 555-2002 ext. 302
+Notes: Application submitted with required documentation. Property damage assessment in progress.
+
+Grant Application ID: GR-2024-003789
+Applicant Name: Lisa Anderson
+Email: lisa.anderson@email.com
+Phone: +1-555-0203
+Application Date: March 1, 2024
+Grant Type: Emergency Food Assistance
+Amount Requested: $500
+Status: Approved
+Approval Date: March 5, 2024
+Disbursement Date: March 8, 2024
+Disbursement Method: Grocery store gift cards
+Case Manager: Michael Chen
+Case Manager Contact: (206) 555-1001 ext. 203
+Notes: Approved for one-time food assistance. Gift cards mailed to applicant address.
+
+Grant Application ID: GR-2024-004012
+Applicant Name: James Brown
+Email: james.brown@email.com
+Phone: +1-555-0204
+Application Date: March 5, 2024
+Grant Type: Medical Emergency Assistance
+Amount Requested: $1,500
+Status: Pending Documentation
+Status Updated: March 10, 2024
+Required Documents: Medical bills, proof of income, insurance statements
+Case Manager: Emily Rodriguez
+Case Manager Contact: (509) 555-3003 ext. 404
+Notes: Application received. Awaiting additional documentation to complete review.
+
+Grant Application ID: GR-2024-005345
+Applicant Name: Patricia Davis
+Email: patricia.davis@email.com
+Phone: +1-555-0205
+Application Date: March 8, 2024
+Grant Type: Utility Assistance
+Amount Requested: $800
+Status: Approved
+Approval Date: March 12, 2024
+Disbursement Date: March 15, 2024
+Disbursement Method: Direct payment to utility company
+Case Manager: David Thompson
+Case Manager Contact: (425) 555-4004 ext. 505
+Notes: Approved for utility bill assistance. Payment processed directly to utility provider.
+
+HOW TO APPLY FOR AID GRANTS
+
+Step 1: Determine Eligibility
+- Must demonstrate financial need
+- Must have experienced qualifying emergency or disaster
+- Must provide required documentation
+- Must be resident of service area
+
+Step 2: Gather Required Documents
+- Proof of identity (government-issued ID)
+- Proof of income (pay stubs, tax returns, benefit statements)
+- Proof of emergency/disaster (photos, reports, insurance claims)
+- Proof of expenses (bills, receipts, estimates)
+- Bank statements (last 3 months)
+
+Step 3: Submit Application
+Online Application:
+- Visit redcross.org/apply-for-aid
+- Create account or log in
+- Complete application form
+- Upload required documents
+- Submit application
+- Receive confirmation email with application ID
+
+In-Person Application:
+- Visit nearest Red Cross Relief Center
+- Speak with case manager
+- Complete paper application
+- Submit documents in person
+- Receive application receipt with ID
+
+Phone Application:
+- Call 1-800-RED-CROSS (1-800-733-2767)
+- Speak with intake specialist
+- Complete application over phone
+- Mail or email required documents
+- Receive confirmation with application ID
+
+Step 4: Application Review Process
+- Initial review: 3-5 business days
+- Additional documentation may be requested
+- Case manager assigned for complex cases
+- Decision typically within 10-15 business days
+- Notification via email, phone, or mail
+
+Step 5: Grant Disbursement
+- Approved grants disbursed within 5-7 business days
+- Payment methods: Direct deposit, check, gift cards, direct payment to vendor
+- Disbursement method depends on grant type
+
+GRANT APPLICATION STATUS CHECK
+
+To check your application status:
+1. Visit redcross.org/application-status
+2. Enter your Application ID (format: GR-YYYY-XXXXXX)
+3. Enter your email address or phone number
+4. View current status and next steps
+
+Or call your assigned case manager using the contact information provided in your confirmation email.
+
+AVAILABLE GRANT TYPES
+
+Emergency Housing Assistance:
+- Temporary housing costs
+- Security deposits
+- First month's rent
+- Maximum: $3,000 per application
+
+Disaster Relief:
+- Property damage repairs
+- Temporary lodging
+- Essential items replacement
+- Maximum: $5,000 per disaster event
+
+Emergency Food Assistance:
+- Grocery assistance
+- Meal programs
+- Maximum: $500 per application
+
+Medical Emergency Assistance:
+- Medical bills
+- Prescription costs
+- Medical equipment
+- Maximum: $2,000 per application
+
+Utility Assistance:
+- Electric, gas, water bills
+- Prevent service disconnection
+- Maximum: $1,000 per application
+
+Emergency Transportation:
+- Vehicle repairs
+- Public transit assistance
+- Maximum: $750 per application
+

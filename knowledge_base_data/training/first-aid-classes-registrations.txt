@@ -1,0 +1,275 @@
+American Red Cross - Training Services
+First Aid Training Classes, Schedules, and Registration Information
+
+UPCOMING FIRST AID TRAINING CLASSES
+
+Class ID: FA-2024-001
+Course Name: Adult and Pediatric First Aid/CPR/AED
+Date: March 25, 2024
+Time: 9:00 AM - 5:00 PM
+Location: Red Cross Training Center - Seattle
+Address: 1234 Training Way, Seattle, WA 98101
+Instructor: Jennifer Martinez
+Available Seats: 8 remaining (class capacity: 20)
+Cost: $95.00
+Certification: Valid for 2 years
+Registration Deadline: March 22, 2024
+Prerequisites: None
+Materials Included: Student manual, certification card
+Parking: Free parking available
+Accessibility: Fully accessible, sign language interpreter available upon request
+
+Class ID: FA-2024-002
+Course Name: Basic Life Support (BLS) for Healthcare Providers
+Date: March 27, 2024
+Time: 8:00 AM - 12:00 PM
+Location: Community Health Center - Bellevue
+Address: 5678 Health Education Drive, Bellevue, WA 98004
+Instructor: Michael Chen
+Available Seats: 5 remaining (class capacity: 12)
+Cost: $120.00
+Certification: Valid for 2 years
+Registration Deadline: March 24, 2024
+Prerequisites: Healthcare provider or student in healthcare field
+Materials Included: BLS manual, certification card, pocket mask
+Parking: Street parking available
+Accessibility: Ground floor access
+
+Class ID: FA-2024-003
+Course Name: First Aid/CPR/AED - Blended Learning
+Date: March 30, 2024
+Time: 1:00 PM - 4:00 PM (In-person skills session)
+Location: Red Cross Training Center - Tacoma
+Address: 9012 Education Boulevard, Tacoma, WA 98402
+Instructor: Sarah Johnson
+Available Seats: 15 remaining (class capacity: 25)
+Cost: $85.00
+Certification: Valid for 2 years
+Registration Deadline: March 27, 2024
+Prerequisites: Must complete online portion before in-person session
+Materials Included: Online course access, skills session, certification card
+Parking: On-site parking available
+Accessibility: Fully accessible
+
+Class ID: FA-2024-004
+Course Name: Wilderness and Remote First Aid
+Date: April 2, 2024
+Time: 8:00 AM - 6:00 PM (Day 1 of 2)
+Date: April 3, 2024
+Time: 8:00 AM - 6:00 PM (Day 2 of 2)
+Location: Outdoor Training Facility - Spokane
+Address: 3456 Wilderness Trail, Spokane, WA 99201
+Instructor: David Thompson
+Available Seats: 3 remaining (class capacity: 16)
+Cost: $175.00
+Certification: Valid for 2 years
+Registration Deadline: March 29, 2024
+Prerequisites: Current Adult and Pediatric First Aid/CPR/AED certification
+Materials Included: Wilderness first aid manual, certification card
+Parking: On-site parking available
+Accessibility: Outdoor facility, contact for accessibility accommodations
+
+Class ID: FA-2024-005
+Course Name: First Aid/CPR/AED - Standard
+Date: April 5, 2024
+Time: 9:00 AM - 4:00 PM
+Location: Red Cross Training Center - Seattle
+Address: 1234 Training Way, Seattle, WA 98101
+Instructor: Emily Rodriguez
+Available Seats: 12 remaining (class capacity: 20)
+Cost: $95.00
+Certification: Valid for 2 years
+Registration Deadline: April 2, 2024
+Prerequisites: None
+Materials Included: Student manual, certification card
+Parking: Free parking available
+Accessibility: Fully accessible
+
+Class ID: FA-2024-006
+Course Name: Pediatric First Aid/CPR/AED
+Date: April 8, 2024
+Time: 9:00 AM - 3:00 PM
+Location: Community Health Center - Bellevue
+Address: 5678 Health Education Drive, Bellevue, WA 98004
+Instructor: Jennifer Martinez
+Available Seats: 18 remaining (class capacity: 20)
+Cost: $90.00
+Certification: Valid for 2 years
+Registration Deadline: April 5, 2024
+Prerequisites: None (recommended for childcare providers, parents, teachers)
+Materials Included: Pediatric first aid manual, certification card
+Parking: Street parking available
+Accessibility: Ground floor access
+
+REGISTERED STUDENT ACCOUNTS
+
+Student Account ID: ST-2024-001234
+Student Name: Robert Williams
+Email: robert.williams@email.com
+Phone: +1-555-0301
+Registered Classes:
+- Class FA-2024-001: Adult and Pediatric First Aid/CPR/AED (March 25, 2024) - Confirmed
+- Class FA-2024-005: First Aid/CPR/AED - Standard (April 5, 2024) - Confirmed
+Account Status: Active
+Certifications Held: None (new student)
+Payment Status: Both classes paid in full
+Reminder Sent: Yes
+Account Notes: Registered for two classes, first-time student
+
+Student Account ID: ST-2024-002456
+Student Name: Lisa Anderson
+Email: lisa.anderson@email.com
+Phone: +1-555-0302
+Registered Classes:
+- Class FA-2024-002: Basic Life Support (BLS) for Healthcare Providers (March 27, 2024) - Confirmed
+Account Status: Active
+Certifications Held: Adult and Pediatric First Aid/CPR/AED (expires: June 15, 2024)
+Payment Status: Paid in full
+Reminder Sent: Yes
+Account Notes: Healthcare professional, renewing BLS certification
+
+Student Account ID: ST-2024-003789
+Student Name: James Brown
+Email: james.brown@email.com
+Phone: +1-555-0303
+Registered Classes:
+- Class FA-2024-003: First Aid/CPR/AED - Blended Learning (March 30, 2024) - Confirmed
+Account Status: Active
+Certifications Held: None (new student)
+Payment Status: Paid in full
+Reminder Sent: Yes
+Account Notes: Completed online portion on March 28, 2024. Ready for skills session.
+
+Student Account ID: ST-2024-004012
+Student Name: Patricia Davis
+Email: patricia.davis@email.com
+Phone: +1-555-0304
+Registered Classes:
+- Class FA-2024-004: Wilderness and Remote First Aid (April 2-3, 2024) - Confirmed
+Account Status: Active
+Certifications Held: Adult and Pediatric First Aid/CPR/AED (expires: May 20, 2024)
+Payment Status: Paid in full
+Reminder Sent: Yes
+Account Notes: Outdoor enthusiast, preparing for hiking season. Prerequisites verified.
+
+Student Account ID: ST-2024-005345
+Student Name: Maria Garcia
+Email: maria.garcia@email.com
+Phone: +1-555-0305
+Registered Classes:
+- Class FA-2024-006: Pediatric First Aid/CPR/AED (April 8, 2024) - Confirmed
+Account Status: Active
+Certifications Held: None (new student)
+Payment Status: Paid in full
+Reminder Sent: Yes
+Account Notes: Childcare provider, required certification for employment
+
+HOW TO REGISTER FOR TRAINING CLASSES
+
+Online Registration:
+1. Visit redcross.org/take-a-class
+2. Search for course by name, location, or date
+3. Select desired class from available options
+4. Create account or log in to existing account
+5. Complete registration form
+6. Make payment online (credit card, debit card, PayPal)
+7. Receive confirmation email with class details and student account information
+8. Access student portal for class materials and updates
+
+Phone Registration:
+Call 1-800-RED-CROSS (1-800-733-2767)
+Available Monday-Friday 8:00 AM - 8:00 PM EST
+Have course name, preferred date, and payment method ready
+Receive confirmation via email or phone
+
+In-Person Registration:
+Visit any Red Cross Training Center during business hours
+Speak with training coordinator
+Complete registration form
+Make payment (cash, check, credit card)
+Receive confirmation receipt and student account information
+
+STUDENT ACCOUNT INFORMATION
+
+Accessing Your Account:
+- Visit redcross.org/my-account
+- Log in with email and password
+- View registered classes, certifications, and account history
+- Download certificates, update contact information
+- Register for additional classes
+
+Account Features:
+- View upcoming class schedules and locations
+- Access digital course materials (for eligible classes)
+- Download certification cards
+- View certification expiration dates
+- Update contact information
+- View payment history
+
+Certification Management:
+- Digital certification cards available in account
+- Print or download PDF certificates
+- Certification expiration reminders sent via email
+- Renewal class recommendations based on expiring certifications
+
+CANCELLATION AND RESCHEDULING
+
+Cancellation Policy:
+- Cancel at least 48 hours before class start time for full refund
+- Cancellations within 48 hours: 50% refund or reschedule option
+- No-show: No refund, reschedule available for additional fee
+- Emergency cancellations: Contact training center for special consideration
+
+Rescheduling:
+- Available up to 24 hours before class start time
+- Subject to availability in other classes
+- Rescheduling fee: $25.00 (waived for emergency situations)
+- Reschedule online through student account or by phone
+
+CLASS LOCATIONS AND DIRECTIONS
+
+Red Cross Training Center - Seattle
+Address: 1234 Training Way, Seattle, WA 98101
+Phone: (206) 555-5001
+Parking: Free parking available in adjacent lot
+Public Transit: Metro Bus lines 7, 14, 36, Link Light Rail - International District Station
+Accessibility: Fully accessible, elevator to all floors
+
+Community Health Center - Bellevue
+Address: 5678 Health Education Drive, Bellevue, WA 98004
+Phone: (425) 555-5002
+Parking: Street parking and nearby parking garage
+Public Transit: Metro Bus lines 271, 550
+Accessibility: Ground floor access, accessible restrooms
+
+Red Cross Training Center - Tacoma
+Address: 9012 Education Boulevard, Tacoma, WA 98402
+Phone: (253) 555-5003
+Parking: On-site parking available
+Public Transit: Pierce Transit routes 1, 2, 3
+Accessibility: Fully accessible
+
+Outdoor Training Facility - Spokane
+Address: 3456 Wilderness Trail, Spokane, WA 99201
+Phone: (509) 555-5004
+Parking: On-site parking available
+Public Transit: Spokane Transit Authority route 25 (limited service)
+Accessibility: Outdoor facility, contact for accessibility accommodations
+
+COURSE DESCRIPTIONS
+
+Adult and Pediatric First Aid/CPR/AED:
+Comprehensive course covering first aid, CPR, and AED use for adults, children, and infants. Includes hands-on practice, written exam, and skills evaluation. Certification valid for 2 years.
+
+Basic Life Support (BLS) for Healthcare Providers:
+Advanced course for healthcare professionals. Covers high-quality CPR, team dynamics, and advanced life support techniques. Includes written and skills testing.
+
+First Aid/CPR/AED - Blended Learning:
+Combines online learning with in-person skills session. Complete online portion at your own pace, then attend skills session for hands-on practice and certification.
+
+Wilderness and Remote First Aid:
+Advanced course for outdoor enthusiasts and professionals. Covers extended care, environmental emergencies, and improvised techniques. Two-day intensive course.
+
+Pediatric First Aid/CPR/AED:
+Specialized course focusing on first aid and CPR for infants and children. Ideal for childcare providers, parents, and teachers. Includes child-specific emergency scenarios.
+

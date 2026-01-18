@@ -1,0 +1,162 @@
+American Red Cross - Biomedical Services
+Blood Drive Appointment Information
+
+EXISTING APPOINTMENTS DATABASE
+
+Appointment ID: BD-2024-001234
+Donor Name: Sarah Johnson
+Email: sarah.johnson@email.com
+Phone: +1-555-0101
+Appointment Date: March 15, 2024
+Appointment Time: 10:00 AM
+Location: Red Cross Center - Downtown Seattle
+Address: 1234 Main Street, Seattle, WA 98101
+Appointment Type: Whole Blood Donation
+Status: Confirmed
+Confirmation Code: ARC-BD-001234
+Reminder Sent: Yes
+Notes: First-time donor, completed pre-screening questionnaire
+
+Appointment ID: BD-2024-002456
+Donor Name: Michael Chen
+Email: michael.chen@email.com
+Phone: +1-555-0102
+Appointment Date: March 18, 2024
+Appointment Time: 2:30 PM
+Location: Community Center - Bellevue
+Address: 5678 Park Avenue, Bellevue, WA 98004
+Appointment Type: Power Red Donation
+Status: Confirmed
+Confirmation Code: ARC-BD-002456
+Reminder Sent: Yes
+Notes: Regular donor, last donation: January 18, 2024
+
+Appointment ID: BD-2024-003789
+Donor Name: Emily Rodriguez
+Email: emily.rodriguez@email.com
+Phone: +1-555-0103
+Appointment Date: March 20, 2024
+Appointment Time: 11:00 AM
+Location: Red Cross Mobile Unit - Tacoma
+Address: 9012 Commerce Boulevard, Tacoma, WA 98402
+Appointment Type: Whole Blood Donation
+Status: Confirmed
+Confirmation Code: ARC-BD-003789
+Reminder Sent: Yes
+Notes: Returning donor, eligible for double red cell donation
+
+Appointment ID: BD-2024-004012
+Donor Name: David Thompson
+Email: david.thompson@email.com
+Phone: +1-555-0104
+Appointment Date: March 22, 2024
+Appointment Time: 3:00 PM
+Location: Red Cross Center - Downtown Seattle
+Address: 1234 Main Street, Seattle, WA 98101
+Appointment Type: Platelet Donation
+Status: Confirmed
+Confirmation Code: ARC-BD-004012
+Reminder Sent: Yes
+Notes: Platelet donor, scheduled monthly appointments
+
+Appointment ID: BD-2024-005345
+Donor Name: Jennifer Martinez
+Email: jennifer.martinez@email.com
+Phone: +1-555-0105
+Appointment Date: March 25, 2024
+Appointment Time: 9:30 AM
+Location: University Medical Center - Spokane
+Address: 3456 University Drive, Spokane, WA 99201
+Appointment Type: Whole Blood Donation
+Status: Confirmed
+Confirmation Code: ARC-BD-005345
+Reminder Sent: Yes
+Notes: Student donor, first donation at this location
+
+FUTURE BLOOD DRIVE LOCATIONS AND SIGN-UP
+
+Upcoming Blood Drive - March 28, 2024
+Location: Red Cross Center - Downtown Seattle
+Address: 1234 Main Street, Seattle, WA 98101
+Time: 8:00 AM - 6:00 PM
+Available Slots: 45 remaining
+Sign-Up: Online at redcross.org/blood or call 1-800-RED-CROSS
+Appointment Types Available: Whole Blood, Power Red, Platelets
+Parking: Free parking available in adjacent lot
+Accessibility: Fully accessible, wheelchair accessible entrance
+
+Upcoming Blood Drive - March 30, 2024
+Location: Community Center - Bellevue
+Address: 5678 Park Avenue, Bellevue, WA 98004
+Time: 9:00 AM - 5:00 PM
+Available Slots: 32 remaining
+Sign-Up: Online at redcross.org/blood or call 1-800-RED-CROSS
+Appointment Types Available: Whole Blood, Power Red
+Parking: Street parking and nearby parking garage
+Accessibility: Ground floor access, accessible restrooms
+
+Upcoming Blood Drive - April 2, 2024
+Location: Red Cross Mobile Unit - Tacoma
+Address: 9012 Commerce Boulevard, Tacoma, WA 98402
+Time: 10:00 AM - 4:00 PM
+Available Slots: 28 remaining
+Sign-Up: Online at redcross.org/blood or call 1-800-RED-CROSS
+Appointment Types Available: Whole Blood only
+Parking: On-site parking available
+Accessibility: Mobile unit with ramp access
+
+Upcoming Blood Drive - April 5, 2024
+Location: University Medical Center - Spokane
+Address: 3456 University Drive, Spokane, WA 99201
+Time: 8:00 AM - 7:00 PM
+Available Slots: 60 remaining
+Sign-Up: Online at redcross.org/blood or call 1-800-RED-CROSS
+Appointment Types Available: Whole Blood, Power Red, Platelets
+Parking: Hospital parking garage, validation available
+Accessibility: Main entrance, elevator access to donation floor
+
+Upcoming Blood Drive - April 8, 2024
+Location: Red Cross Center - Downtown Seattle
+Address: 1234 Main Street, Seattle, WA 98101
+Time: 7:00 AM - 8:00 PM
+Available Slots: 55 remaining
+Sign-Up: Online at redcross.org/blood or call 1-800-RED-CROSS
+Appointment Types Available: Whole Blood, Power Red, Platelets, Plasma
+Parking: Free parking available in adjacent lot
+Accessibility: Fully accessible, wheelchair accessible entrance
+
+BLOOD DONATION ELIGIBILITY REQUIREMENTS
+
+Age Requirements: Must be at least 17 years old (16 with parental consent in some states)
+Weight Requirements: Minimum 110 pounds for whole blood donation
+Health Requirements: Generally good health, no active illness
+Frequency: Whole blood every 56 days, Power Red every 112 days, Platelets every 7 days
+Identification: Valid photo ID required at appointment
+Pre-Donation: Complete health history questionnaire and mini-physical
+
+HOW TO SIGN UP FOR BLOOD DRIVE
+
+Online Registration:
+1. Visit redcross.org/blood
+2. Enter your zip code to find nearby drives
+3. Select preferred date and time slot
+4. Complete registration form
+5. Receive confirmation email with appointment details
+
+Phone Registration:
+Call 1-800-RED-CROSS (1-800-733-2767)
+Available 24/7 for scheduling assistance
+Have your preferred dates and locations ready
+
+Walk-In Appointments:
+Available on a first-come, first-served basis
+Subject to availability
+Recommended to schedule in advance for guaranteed time slot
+
+CANCELLATION AND RESCHEDULING
+
+To Cancel: Log into your account at redcross.org/blood or call 1-800-RED-CROSS
+Cancellation Policy: Cancel at least 24 hours in advance when possible
+Rescheduling: Available online or by phone, subject to availability
+No-Show Policy: Multiple no-shows may affect future appointment scheduling
+
